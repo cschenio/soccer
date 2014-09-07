@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  start_time: 2014-09-07 20:57:35
+  home_name: MyString
+  away_name: MyString
+  home_score: 1
+  away_score: 1
+
+two:
+  name: MyString
+  start_time: 2014-09-07 20:57:35
+  home_name: MyString
+  away_name: MyString
+  home_score: 1
+  away_score: 1
